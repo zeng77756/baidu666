@@ -1,4 +1,4 @@
 [{"server":"yueloo.top","server_port":888,"password":"teddysun.com","method":"aes-256-gcm","remarks":"杭州","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"yueloo.top","server_port":889,"password":"teddysun.com","method":"aes-256-gcm","remarks":"广州","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
-{"server":"yueloo.top","server_port":901,"password":"teddysun.com","method":"aes-256-gcm","remarks":"广州","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
-{"server":"yueloo.top","server_port":867,"password":"teddysun.com","method":"aes-256-gcm","remarks":"深圳","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
+{"server":"8.134.92.212","server_port":901,"password":"teddysun.com","method":"aes-256-gcm","remarks":"广州","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"120.79.48.197","server_port":867,"password":"teddysun.com","method":"aes-256-gcm","remarks":"深圳","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
